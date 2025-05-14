@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/ananya-rakhi-singh-267850252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D8BFD8?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
   <a href="mailto:ananyasingh54404@gmail.com"><img src="https://img.shields.io/badge/Gmail-EE82EE?style=for-the-badge&logo=gmail&logoColor=black"/></a>
   <a href="mailto:ananyasingh54404@gmail.com"><img src="https://img.shields.io/badge/Official Gmail-614051?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.instagram.com/singhananya27/#"><img src="https://img.shields.io/badge/instagram-F2BDdD?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 </p>
 
 ---
