@@ -60,55 +60,9 @@
 | [Love Letter 💌](https://github.com/your-username/love-letter) | A virtual letter styled with pure HTML/CSS |
 
 ---
-### 🌟 Certificates
-<a href="[1684524503116.jpeg](https://github.com/SakuraintheSkies/Ananya-Singh/blob/b7ae821fdd8fe547acd432affe7acc2b94b1098e/1684524503116.jpeg)?raw=true">
-  <img src="[1684524503116.jpeg](https://github.com/SakuraintheSkies/Ananya-Singh/blob/b7ae821fdd8fe547acd432affe7acc2b94b1098e/1684524503116.jpeg)?raw=true" 
-       alt="Python Essentials" 
-       title="Python Essentials" 
-       width="200"/>
-</a>
-<a href="1732800114755.jpeg?raw=true">
-  <img src="1732800114755.jpeg?raw=true" 
-       alt="artificial Intlliegnce machine learning and deep learning. embedded systems design and IoT" 
-       title="artificial Intlliegnce machine learning and deep learning. embedded systems design and IoT" 
-       width="200"/>
-</a>
-<a href="Screenshot 2025-05-14 130657.png?raw=true">
-  <img src="Screenshot 2025-05-14 130657.png?raw=true" 
-       alt="The bits and bytes of computer networking" 
-       title="The bits and bytes of computer networking" 
-       width="200"/>
-</a>
-<a href="1684524503116.jpeg?raw=true">
-  <img src="1684524503116.jpeg?raw=true" 
-       alt="Python Essentials" 
-       title="Python Essentials" 
-       width="200"/>
-</a>
-<a href="Screenshot 2025-05-14 130830.png?raw=true">
-  <img src="Screenshot 2025-05-14 130830.png?raw=true" 
-       alt="Cyber security analyst" 
-       title="Cyber security analyst" 
-       width="200"/>
-</a>
-<a href="Screenshot 2025-05-14 131139.png?raw=true">
-  <img src="Screenshot 2025-05-14 131139.png?raw=true" 
-       alt="NPTEL cloud computing" 
-       title="NPTEL cloud Computing" 
-       width="200"/>
-</a>
-<a href="Screenshot 2025-05-14 131642.png?raw=true">
-  <img src="Screenshot 2025-05-14 131642.png?raw=true" 
-       alt="Adobe UI N UX Design program" 
-       title="Adobe UI N UX Design program"
-       width="200"/>
-</a>
-<a href="Screenshot 2025-05-14 131654.png?raw=true">
-  <img src="Screenshot 2025-05-14 131654.png?raw=true" 
-       alt="NPTEL marketing analysis" 
-       title="NPTEL marketing analysis" 
-       width="200"/>
-</a>
+### 🏅 Certifications
+[Go to My Certifications🚀](https://github.com/SakuraintheSkies/Certifications)
+
 
 ---
 ## 🌸 Extra-Curriculars & Achievements
