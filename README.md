@@ -64,13 +64,13 @@
 [Go to My Certifications🚀](https://github.com/SakuraintheSkies/Certifications)
 <br>
 <a href="1684524503116.jpeg?raw=true">
-  <img src="1684524503116.jpeg?raw=true" alt="Vityarthi Python essentials" title="Click to view full image" width="150" />
+  <img src="1684524503116.jpeg?raw=true" alt="Vityarthi Python essentials" title="Click to view python essentials certificate" width="150" />
 </a>
 <a href="1732800114755.jpeg?raw=true">
-  <img src="1732800114755.jpeg?raw=true" alt="AI Ml" title="Click to view Aritficial intelligence machine learning and deep learning , embedded and design IoT" width="150" />
+  <img src="1732800114755.jpeg?raw=true" alt="AI Ml" title="Click to view Aritficial intelligence machine learning and deep learning , embedded and design IoT certficate" width="150" />
 </a>
 <a href="Screenshot 2025-05-14 130657.png?raw=true">
-  <img src="Screenshot 2025-05-14 130657.png?raw=true" alt="google certificate" title="Click to view bits and bytes of computing" width="150" />
+  <img src="Screenshot 2025-05-14 130657.png?raw=true" alt="google certificate" title="Click to view bits and bytes of computing certificate" width="150" />
 </a>
 <a href="Screenshot 2025-05-14 130830.png?raw=true">
   <img src="Screenshot 2025-05-14 130830.png?raw=true" alt="IBM cyber security analysist" title="Click to view IBM cyber security certificate" width="150" />
