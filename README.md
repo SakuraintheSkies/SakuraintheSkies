@@ -60,6 +60,8 @@
 | [Love Letter 💌](https://github.com/SakuraintheSkies/love-letter) | A virtual letter styled with pure HTML/CSS |
 | [UI UX Brand assignment👗](https://github.com/SakuraintheSkies/User-Interface-and-User-experience) | A Brand Advertisement made using Adobe express |
 | [Crop Disease Detection🌱](https://github.com/SakuraintheSkies/Crop-Disease-Detection) | A Machine Learning Project based on crop diseases|
+| [UI UX Promotion assignment👗](https://github.com/SakuraintheSkies/User-experience-and-user-interface-assignment) | A application Advertisement made using Adobe express |
+
 
 ---
 ### 🏅 Certifications
