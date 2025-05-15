@@ -61,7 +61,7 @@
 | [UI UX Brand assignment👗](https://github.com/SakuraintheSkies/User-Interface-and-User-experience) | A Brand Advertisement made using Adobe express |
 | [Crop Disease Detection🌱](https://github.com/SakuraintheSkies/Crop-Disease-Detection) | A Machine Learning Project based on crop diseases|
 | [UI UX Promotion assignment👗](https://github.com/SakuraintheSkies/User-experience-and-user-interface-assignment) | A application Advertisement made using Adobe express |
-
+| [UI UX Case Study👗](https://github.com/SakuraintheSkies/Case-Study-UI-UX) | A case study made on figma for mobile application |
 
 ---
 ### 🏅 Certifications
