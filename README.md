@@ -55,11 +55,10 @@
 
 | 💡 Project | 🌟 Description |
 |-----------|----------------|
-| [Vibrating Heart 💓](https://github.com/your-username/vibrating-heart) | A cute animated heart to show love with code |
-| [Love Song Music Player 🎶](https://github.com/your-username/love-song-music-player) | A romantic music player interface |
-| [Love Letter 💌](https://github.com/your-username/love-letter) | A virtual letter styled with pure HTML/CSS |
+| [Vibrating Heart 💓](https://github.com/SakuraintheSkies/vibrating-heart) | A cute animated heart to show love with code |
+| [Love Song Music Player 🎶](https://github.com/SakuraintheSkies/love-song-music-player) | A romantic music player interface |
+| [Love Letter 💌](https://github.com/SakuraintheSkies/love-letter) | A virtual letter styled with pure HTML/CSS |
 | [UI UX Brand assignment👗](https://github.com/SakuraintheSkies/User-Interface-and-User-experience) | A Brand Advertisement made using Adobe express |
-
 
 ---
 ### 🏅 Certifications
