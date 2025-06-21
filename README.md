@@ -42,7 +42,6 @@
 ![React](https://img.shields.io/badge/React-98ff98?style=for-the-badge&logo=react&logoColor=black)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-00ff7f?style=for-the-badge&logo=figma&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-6495ed?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-fa8072?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-f9afae?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-dda0dd?style=for-the-badge&logo=python&logoColor=white)
 ![Japanese](https://img.shields.io/badge/日本語-add8e6?style=for-the-badge&logo=flag-jp&logoColor=black)
