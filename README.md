@@ -61,6 +61,8 @@
 | [Crop Disease Detection🌱](https://github.com/SakuraintheSkies/Crop-Disease-Detection) | A Machine Learning Project based on crop diseases|
 | [UI UX Promotion assignment👗](https://github.com/SakuraintheSkies/User-experience-and-user-interface-assignment) | A application Advertisement made using Adobe express |
 | [UI UX Case Study👗](https://github.com/SakuraintheSkies/Case-Study-UI-UX) | A case study made on figma for mobile application |
+| [Donut Advertisement Prototye👗]([https://github.com/SakuraintheSkies/Case-Study-UI-UX](https://github.com/SakuraintheSkies/Donut-Advertisement-Prototype)) | An advertisement on donuts made on figma for desktop User Interface |
+| [Emergency App UI](https://github.com/SakuraintheSkies/Disaster-and-Emergency-Alert-App) | An App UI for disasters and emergencies |
 
 ---
 ### 🏅 Certifications
