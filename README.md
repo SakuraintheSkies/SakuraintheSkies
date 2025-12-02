@@ -89,6 +89,12 @@
 <a href="Screenshot 2025-05-14 131642.png?raw=true">
   <img src="Screenshot 2025-05-14 131642.png?raw=true" alt="UI UX" title="Click to view UI UX Certificate" width="150" />
 </a>
+<a href="WhatsApp Image 2025-11-12 at 02.32.30_7c22bd8c.jpg">
+  <img src="WhatsApp Image 2025-11-12 at 02.32.30_7c22bd8c.jpg" alt="DELF Certificate" title="Click to view French Certificate" width="150" />
+</a>
+<a href="WhatsApp Image 2025-11-12 at 02.32.30_d371e206.jpg">
+  <img src="WhatsApp Image 2025-11-12 at 02.32.30_d371e206.jpg" alt="DELF" title="Click to view French language Certificate" width="150" />
+</a>
 
 ---
 ## 🌸 Extra-Curriculars & Achievements
