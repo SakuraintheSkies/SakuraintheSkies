@@ -18,7 +18,7 @@
 
 ---
 ### 🛠️ My Experince
-![UI UX DESIGN](https://img.shields.io/badge/Canva-FF007F?style=for-the-badge&logo=canva&logoColor=black) <br> Cognifyz Technologies  (Intern ID: CTI/A1/C269056) December 2025-January 2026
+![UI UX DESIGN](https://img.shields.io/badge/UI%20UX%20Design%20Intern-FF007F?style=for-the-badge&logo=canva&logoColor=black) <br> Cognifyz Technologies  (Intern ID: CTI/A1/C269056) December 2025-January 2026
 
 ---
 
