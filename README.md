@@ -34,8 +34,8 @@
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-FF007F?style=for-the-badge&logo=canva&logoColor=black)
 ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-fFD1DC?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Express-D8BFD8??style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Express-4682c4?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PhotoShop-D8BFD8??style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-4682c4?style=for-the-badge&logo=adobe&logoColor=white)
 
 #### Cloud & Security
 ![AWS](https://img.shields.io/badge/AWS-69359C?style=for-the-badge&logo=amazon-aws&logoColor=white)
